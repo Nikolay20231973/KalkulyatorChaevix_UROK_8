@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tip Time_UROK_8</string>
+    <string name="calculate_tip">Калькулятор чаевых</string>
+    <string name="bill_amount">Введите общую сумму</string>
+    <string name="tip_amount">Оставьте чаевые: %s</string>
+    <string name="how_was_the_service">Какие проценты чаевых</string>
+    <string name="round_up_tip">Собрать чаевые?</string>
+
+</resources>
